@@ -3,4 +3,4 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am  a PhD candidate in public policy at the University of Oxford. I hold a master in laws from Harvard Law School and a master in international development economics from Harvard Kennedy School. I was previously a law clerk and practicing attorney at the Supreme Court of India and a consultant with the Chief Economic Advisor of India. I am interested in development and environmental .
+I am  a PhD candidate in public policy at the University of Oxford. I hold a master in laws from Harvard Law School and a master in international development economics from Harvard Kennedy School. I was previously a law clerk and practicing attorney at the Supreme Court of India and a consultant with the Chief Economic Advisor of India. I am interested in development and environmental economics.

@@ -11,7 +11,7 @@ tags: [jekyll]
 <br/>
 <br/>
 - <a href="" style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>
-    * <a style="color:#909090"> with Ananya Kotia (LSE) and Chinmay Lohani (UPenn)s </a>
+    * <a style="color:#909090"> with Ananya Kotia (LSE) and Chinmay Lohani (UPenn) </a>
     * <a style="color:#909090"> Funding: PEDL ($50,000), STEG ($18,000) </a> 
 <br/>
 <br/>
