@@ -1,0 +1,48 @@
+# Site settings
+title: Utkarsh Saxena
+description: 'Ph.D. candidate, Public Policy, University of Oxford'
+url: 'https://utsaxena.github.io'
+baseurl: ""
+google_analytics: '243805467'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Ananya Kotia'
+  email: utkarsh.saxena@sjc.ox.ac.uk
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+timezone: EST5EDT
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+
